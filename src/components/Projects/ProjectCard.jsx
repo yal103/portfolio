@@ -9,7 +9,7 @@ export const ProjectCard = ({
   return (
     <div className={styles.container}>
       <img
-        src={`/portfolio/assets/${imageSrc}`}
+        src={`portfolio/assets/${imageSrc}`}
         alt={`Image of ${title}`}
         className={styles.image}
       />
